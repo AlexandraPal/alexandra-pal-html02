@@ -1,0 +1,13 @@
+/* Folosind un media query in CSS centreaza elementul
+pentru toate rezolutiile in afara de cele mai mari de 992
+unde imaginea trebuie sa se intinda pe toata lungimea
+ecranului */
+
+@media (max-width: 992px) {
+  .img1,
+  .img2,
+  .img3 {
+    display: block;
+    margin: 0 auto;
+  }
+}
