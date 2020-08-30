@@ -32,4 +32,48 @@
   background-color: purple;
 }
 
+.circles {
+  margin: 0 auto;
+  width: 75%;
+  border: 2px brown dotted;
+  border-radius: 25px;
+}
+
+.circle-red {
+  background-color: purple;
+  border: 3px red solid;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.circle-green {
+  background-color: purple;
+  border: 3px red solid;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: green;
+}
+
+.circle-blue {
+  background-color: purple;
+  border: 3px red solid;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.circle-border-blue {
+  background-color: purple;
+  border: 3px red solid;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: 1px solid blue;
+}
+
 /*# sourceMappingURL=style.css.map */

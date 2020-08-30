@@ -4,8 +4,7 @@ ul a {
 ul a:hover {
   color: red;
 }
-ul a:active,
-ul a:visited {
+ul a:active, ul a:visited {
   color: green;
 }
 
@@ -33,6 +32,20 @@ ul a:visited {
 .reverse .paragraphs .para-short {
   width: 100%;
   padding: 10px 20px;
+}
+
+ol a:hover {
+  color: magenta;
+}
+ol a:active {
+  color: pink;
+}
+ol a:visited {
+  color: lightcoral;
+}
+
+ol.all-visited a {
+  text-decoration: line-through;
 }
 
 /*# sourceMappingURL=style.css.map */
