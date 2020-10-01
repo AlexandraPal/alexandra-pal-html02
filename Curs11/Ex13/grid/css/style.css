@@ -1,0 +1,9 @@
+.grid-container {
+  width: 100%;
+  max-width: 1290px;
+  margin: 0 auto;
+  background-color: lightgoldenrodyellow;
+
+  display: grid;
+  grid-template-columns: minmax(250px, 1fr) minmax(250px, 1fr);
+}
