@@ -53,3 +53,13 @@ Aseaza al cincelea element in coltul din dreapta jos al celulei */
   justify-self: end;
   align-self: center;
 }
+
+.grid-item-4 {
+  justify-self: start;
+  align-self: start;
+}
+
+.grid-item-5 {
+  justify-self: end;
+  align-self: end;
+}
